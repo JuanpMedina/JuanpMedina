@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey! I'm Juan Pablo Medina 👋
+I'm a passionate about software development, and focused on the frontend.
 
-<!--
-**JuanpMedina/JuanpMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to continue learning, improving my skills and my code of course to be part of technological development, because I believe that the future of world is in the hands of the developers. 💻
 
-Here are some ideas to get you started:
+Thank you for reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆💪 Skills
+
+JavaScript | React.js | Node.js | SQL | Express.js | PostgreSQL | Git | HTML | CSS | Github | Bootstrap  | Metodologías Ágiles (Scrum) | React Native
+
+Juan Pablo Medina Diaz
+
+:e-mail: juampamedinadiaz2002@gmail.com
+
+:computer: [Linkedln](https://www.linkedin.com/in/juan-pablo-medina-diaz/ "Linkedln")
+
+:page_with_curl: [Curriculum](https://drive.google.com/file/d/1JEwqUbr0npu8hP5eeNyL6aZkW1AP3gSw/view?usp=sharing "Curriculum")
