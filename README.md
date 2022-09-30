@@ -47,7 +47,7 @@ the developers. 💻
 <p align="left">
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="25" height="25"/></a> Juampamedinadiaz2002@gmail.com
 
-<a href="www.linkedin.com/in/juan-pablo-medina-diaz" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/12/LinkedIn-PNG-HD-Images.png" width="30" height="30"/></a> Linkedln
+<a href="https://www.linkedin.com/in/juan-pablo-medina-diaz/" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/12/LinkedIn-PNG-HD-Images.png" width="30" height="30"/></a> Linkedln
 
 <a href="https://drive.google.com/file/d/1JEwqUbr0npu8hP5eeNyL6aZkW1AP3gSw/view?usp=sharing" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1150/1150635.png" width="40" height="40"/></a> CV
 
