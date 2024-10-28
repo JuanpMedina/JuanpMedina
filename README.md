@@ -3,25 +3,26 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <br>
+<h3>🚀 About Me</h3>
 <br>
 
-- I'm a passionate about software development,
-and focused on the frontend.
-
-<br>
-
-- I want to continue learning, improving my skills
-and my code of course to be part of technological development, 
-because I believe that the future of world is in the hands of 
-the developers. 💻
-
-<br>
+- I'm passionate about data analysis and engineering, dedicated to turning data into valuable insights that drive decision-making. I focus on continuously improving my skills in data processing, analysis, and visualization to develop solutions that positively impact technological advancement. I firmly believe that the future of technology is built on data and that harnessing its potential is the key to innovation. 💻
 
 - Thank you for reading.
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 💻</h3>
+<h3 align="left">Mayor:</h3>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="SQL" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/es-co/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cecap.com.co/academia/wp-content/uploads/2023/09/Excel-logo.png" alt="Excel" width="60" height="40"/> </a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://static.amarello.cloud/img/bigquery.png" alt="Bigquery" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/looker?hl=es" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Looker" width="40" height="40"/> </a>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/power-bi-2021.png" alt="Power Bi" width="50" height="40"/> </a>
+<a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="Tableau" width="60" height="40"/> </a>
+<a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Colab" width="60" height="40"/> </a>
+<h3 align="left">Others:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -53,7 +54,7 @@ the developers. 💻
 
 <a href="https://www.linkedin.com/in/juan-pablo-medina-diaz/" target="_blank"> <img src="https://www.pngplay.com/wp-content/uploads/12/LinkedIn-PNG-HD-Images.png" width="30" height="30"/></a> Linkedln
 
-<a href="https://drive.google.com/file/d/1Pvfeynt7lVz6z_Po4-6nMelCaLRNC39S/view?usp=sharing" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1150/1150635.png" width="40" height="40"/></a> CV
+<a href="https://drive.google.com/file/d/1txCB6mSy58Zk7BXwTXrGD9ZwCw_sJalz/view?usp=sharing" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1150/1150635.png" width="40" height="40"/></a> CV
 
 <a href="https://discord.gg/farck007#2979" target="_blank"> <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="30" height="30"/></a> Discord
 </p>
